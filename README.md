@@ -84,4 +84,4 @@ This app was created as a submission for Apple's Swift Student Challenge 2023, w
 
 ---
 
-© 2023 Anato. Created for the Swift Student Challenge.
+*Submitted by Damian Perez for the Swift Student Challenge 2023*
